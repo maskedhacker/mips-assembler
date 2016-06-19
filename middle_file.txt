@@ -1,0 +1,5 @@
+addi sp zero 3 @ 
+addi 29 0 3 @ 
+addi 1 2 0x500 @ 
+addi 1 2 500 @ 
+halt @ 
