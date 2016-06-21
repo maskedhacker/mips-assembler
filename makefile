@@ -14,5 +14,5 @@ js_func.o: get_input.c
 get_images.o: get_binary.c
 	gcc -c get_binary.c
 clean: 
-	rm *o proj *layout *depend middle_file.txt 
+	rm *o proj *layout *.txt 
 
